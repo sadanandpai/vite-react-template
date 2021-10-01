@@ -2,12 +2,12 @@
 
 ### Project setup steps:
 - npm init vite@latest
-  - Provide project name
-  - Select react
-  - Select react-ts
+  - provide `project-name`
+  - select `react`
+  - Select `react-ts`
   - navigate to the project folder
-- npm install
-- npm run dev
+- `npm install`
+- `npm run dev`
 
 ### Github setup steps:
 - Create an empty repo in Github
