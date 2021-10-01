@@ -14,4 +14,4 @@
 - Configure base property as repo path inside [vite.config.ts](./vite.config.ts)
 - Commit and push the local code base to Github repo
 - Setup the CI/CD to build on every push/PR [main.yml](./.github/workflows/main.yml)
-- Activate the Github pages and [https://{username}.github.io/{repo}/dist/](https://sadanandpai.github.io/vite-react-demo/dist/)
+- Activate the Github pages and [https://{username}.github.io/{repo}/dist/](https://sadanandpai.github.io/vite-react-template/dist/)
