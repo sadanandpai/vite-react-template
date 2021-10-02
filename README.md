@@ -1,7 +1,7 @@
 # Vitejs based React TypeScript template
 
 ### Project setup steps:
-- npm init vite@latest
+- `npm init vite@latest`
   - provide `project-name`
   - select `react`
   - Select `react-ts`
